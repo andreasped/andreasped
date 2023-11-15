@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+#### 💻 Studying for a bachelor's degree in Computer Science at UiS.
 
 <!--
 **andreasped/andreasped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
