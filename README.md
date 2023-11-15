@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 🧍‍♂️
 
 #### 💻 Studying for a bachelor's degree in Computer Science at UiS.
 
